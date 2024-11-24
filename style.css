@@ -1,5 +1,4 @@
 .hi {
-    color: green;
     background-color: #63abec;
 }
 
@@ -20,6 +19,7 @@ body {
 
 .heee {
     background-color: #278be4;
+    color: #0d4372;
 }
 
 p {
@@ -31,4 +31,20 @@ p {
 footer {
     font-size: 12px;
     color: #135998;
+}
+
+li {
+    list-style-type: none;
+}
+
+h4 {
+    font-size: 40px;
+    color: #135998;
+}
+
+.padss {
+    padding-left: 40px;
+    padding-top:20px;
+    font-size: 30px;
+    color: #0f4677;
 }
